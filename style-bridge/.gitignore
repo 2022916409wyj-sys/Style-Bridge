@@ -1,0 +1,7 @@
+# Real secrets: never commit. Only the placeholder template is tracked.
+.env
+.env.*
+!.env.example
+
+# Local exports
+data/brands.csv
