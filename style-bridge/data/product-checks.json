@@ -1,0 +1,402 @@
+{
+    "generatedAt":  "2026-10-17",
+    "method":  "Automated read of each product page\u0027s schema.org Product data (robots.txt respected).",
+    "results":  {
+                    "skims-airy-cashmere-turtleneck-onyx":  {
+                                                                "checkedAt":  "2026-10-17",
+                                                                "pageVerified":  true,
+                                                                "priceVerified":  true,
+                                                                "price":  {
+                                                                              "amount":  168,
+                                                                              "currency":  "USD"
+                                                                          },
+                                                                "availability":  "in-stock",
+                                                                "availabilityDetail":  "5 of 5 sizes listed in stock",
+                                                                "note":  ""
+                                                            },
+                    "skims-sweater-knit-logo-pullover-cocoa-egret":  {
+                                                                         "checkedAt":  "2026-10-17",
+                                                                         "pageVerified":  true,
+                                                                         "priceVerified":  true,
+                                                                         "price":  {
+                                                                                       "amount":  98,
+                                                                                       "currency":  "USD"
+                                                                                   },
+                                                                         "availability":  "in-stock",
+                                                                         "availabilityDetail":  "9 of 9 sizes listed in stock",
+                                                                         "note":  ""
+                                                                     },
+                    "skims-ldss-milky-sheer-mock-neck-top-onyx":  {
+                                                                      "checkedAt":  "2026-10-17",
+                                                                      "pageVerified":  true,
+                                                                      "priceVerified":  true,
+                                                                      "price":  {
+                                                                                    "amount":  128,
+                                                                                    "currency":  "USD"
+                                                                                },
+                                                                      "availability":  "in-stock",
+                                                                      "availabilityDetail":  "6 of 9 sizes listed in stock",
+                                                                      "note":  ""
+                                                                  },
+                    "us-claudia-corduroy-pants-winter-willow":  {
+                                                                    "checkedAt":  "2026-10-17",
+                                                                    "pageVerified":  true,
+                                                                    "priceVerified":  true,
+                                                                    "price":  {
+                                                                                  "amount":  158,
+                                                                                  "currency":  "USD"
+                                                                              },
+                                                                    "availability":  "in-stock",
+                                                                    "availabilityDetail":  "20 of 22 sizes listed in stock",
+                                                                    "note":  ""
+                                                                },
+                    "us-dakota-barrel-corduroy-pants-winter-willow":  {
+                                                                          "checkedAt":  "2026-10-17",
+                                                                          "pageVerified":  true,
+                                                                          "priceVerified":  true,
+                                                                          "price":  {
+                                                                                        "amount":  158,
+                                                                                        "currency":  "USD"
+                                                                                    },
+                                                                          "availability":  "in-stock",
+                                                                          "availabilityDetail":  "20 of 22 sizes listed in stock",
+                                                                          "note":  ""
+                                                                      },
+                    "us-claudia-corduroy-pants-coffee":  {
+                                                             "checkedAt":  "2026-10-17",
+                                                             "pageVerified":  true,
+                                                             "priceVerified":  true,
+                                                             "price":  {
+                                                                           "amount":  158,
+                                                                           "currency":  "USD"
+                                                                       },
+                                                             "availability":  "in-stock",
+                                                             "availabilityDetail":  "21 of 22 sizes listed in stock",
+                                                             "note":  ""
+                                                         },
+                    "us-ravello-liquid-jersey-dress-black":  {
+                                                                 "checkedAt":  "2026-10-17",
+                                                                 "pageVerified":  true,
+                                                                 "priceVerified":  true,
+                                                                 "price":  {
+                                                                               "amount":  88.8,
+                                                                               "currency":  "USD"
+                                                                           },
+                                                                 "availability":  "in-stock",
+                                                                 "availabilityDetail":  "10 of 11 sizes listed in stock",
+                                                                 "note":  ""
+                                                             },
+                    "us-better-than-wool-wrap-dress-graphite":  {
+                                                                    "checkedAt":  "2026-10-17",
+                                                                    "pageVerified":  true,
+                                                                    "priceVerified":  true,
+                                                                    "price":  {
+                                                                                  "amount":  288,
+                                                                                  "currency":  "USD"
+                                                                              },
+                                                                    "availability":  "in-stock",
+                                                                    "availabilityDetail":  "11 of 11 sizes listed in stock",
+                                                                    "note":  ""
+                                                                },
+                    "dickies-short-sleeve-work-shirt-dark-brown":  {
+                                                                       "checkedAt":  "2026-10-17",
+                                                                       "pageVerified":  true,
+                                                                       "priceVerified":  true,
+                                                                       "price":  {
+                                                                                     "amount":  27.99,
+                                                                                     "currency":  "USD"
+                                                                                 },
+                                                                       "availability":  "in-stock",
+                                                                       "availabilityDetail":  "11 of 11 sizes listed in stock",
+                                                                       "note":  ""
+                                                                   },
+                    "dickies-original-874-work-pants-black":  {
+                                                                  "checkedAt":  "2026-10-17",
+                                                                  "pageVerified":  true,
+                                                                  "priceVerified":  true,
+                                                                  "price":  {
+                                                                                "amount":  29.99,
+                                                                                "currency":  "USD"
+                                                                            },
+                                                                  "availability":  "in-stock",
+                                                                  "availabilityDetail":  "78 of 79 sizes listed in stock",
+                                                                  "note":  ""
+                                                              },
+                    "dickies-heavyweight-pocket-tee-black-olive":  {
+                                                                       "checkedAt":  "2026-10-17",
+                                                                       "pageVerified":  true,
+                                                                       "priceVerified":  true,
+                                                                       "price":  {
+                                                                                     "amount":  16.99,
+                                                                                     "currency":  "USD"
+                                                                                 },
+                                                                       "availability":  "in-stock",
+                                                                       "availabilityDetail":  "11 of 12 sizes listed in stock",
+                                                                       "note":  ""
+                                                                   },
+                    "champion-spot-comfort-sports-bra-black":  {
+                                                                   "checkedAt":  "2026-10-17",
+                                                                   "pageVerified":  true,
+                                                                   "priceVerified":  true,
+                                                                   "price":  {
+                                                                                 "amount":  37.5,
+                                                                                 "currency":  "USD"
+                                                                             },
+                                                                   "availability":  "in-stock",
+                                                                   "availabilityDetail":  "18 of 18 sizes listed in stock",
+                                                                   "note":  ""
+                                                               },
+                    "champion-sport-tee-reflective-black":  {
+                                                                "checkedAt":  "2026-10-17",
+                                                                "pageVerified":  true,
+                                                                "priceVerified":  true,
+                                                                "price":  {
+                                                                              "amount":  18.75,
+                                                                              "currency":  "USD"
+                                                                          },
+                                                                "availability":  "in-stock",
+                                                                "availabilityDetail":  "5 of 5 sizes listed in stock",
+                                                                "note":  ""
+                                                            },
+                    "champion-sport-sweatpants-black":  {
+                                                            "checkedAt":  "2026-10-17",
+                                                            "pageVerified":  true,
+                                                            "priceVerified":  true,
+                                                            "price":  {
+                                                                          "amount":  26.25,
+                                                                          "currency":  "USD"
+                                                                      },
+                                                            "availability":  "in-stock",
+                                                            "availabilityDetail":  "5 of 5 sizes listed in stock",
+                                                            "note":  ""
+                                                        },
+                    "muji-hakama-pants":  {
+                                              "checkedAt":  "2026-10-17",
+                                              "pageVerified":  true,
+                                              "priceVerified":  true,
+                                              "price":  {
+                                                            "amount":  79.9,
+                                                            "currency":  "USD"
+                                                        },
+                                              "availability":  "in-stock",
+                                              "availabilityDetail":  "1 of 1 sizes listed in stock",
+                                              "note":  ""
+                                          },
+                    "gymshark-everyday-seamless-leggings-brown":  {
+                                                                      "checkedAt":  "2026-10-17",
+                                                                      "pageVerified":  true,
+                                                                      "priceVerified":  true,
+                                                                      "price":  {
+                                                                                    "amount":  38,
+                                                                                    "currency":  "USD"
+                                                                                },
+                                                                      "availability":  "in-stock",
+                                                                      "availabilityDetail":  "7 of 7 sizes listed in stock",
+                                                                      "note":  ""
+                                                                  },
+                    "gymshark-everyday-seamless-flared-leggings-black":  {
+                                                                             "checkedAt":  "2026-10-17",
+                                                                             "pageVerified":  true,
+                                                                             "priceVerified":  true,
+                                                                             "price":  {
+                                                                                           "amount":  38,
+                                                                                           "currency":  "USD"
+                                                                                       },
+                                                                             "availability":  "in-stock",
+                                                                             "availabilityDetail":  "7 of 7 sizes listed in stock",
+                                                                             "note":  ""
+                                                                         },
+                    "gymshark-everyday-seamless-leggings-purple":  {
+                                                                       "checkedAt":  "2026-10-17",
+                                                                       "pageVerified":  true,
+                                                                       "priceVerified":  true,
+                                                                       "price":  {
+                                                                                     "amount":  38,
+                                                                                     "currency":  "USD"
+                                                                                 },
+                                                                       "availability":  "in-stock",
+                                                                       "availabilityDetail":  "7 of 7 sizes listed in stock",
+                                                                       "note":  ""
+                                                                   },
+                    "rachel-comey-carpen-pant":  {
+                                                     "checkedAt":  "2026-10-17",
+                                                     "pageVerified":  true,
+                                                     "priceVerified":  true,
+                                                     "price":  {
+                                                                   "amount":  595,
+                                                                   "currency":  "USD"
+                                                               },
+                                                     "availability":  "in-stock",
+                                                     "availabilityDetail":  "7 of 9 sizes listed in stock",
+                                                     "note":  ""
+                                                 },
+                    "rachel-comey-adaway-blazer":  {
+                                                       "checkedAt":  "2026-10-17",
+                                                       "pageVerified":  true,
+                                                       "priceVerified":  true,
+                                                       "price":  {
+                                                                     "amount":  1095,
+                                                                     "currency":  "USD"
+                                                                 },
+                                                       "availability":  "in-stock",
+                                                       "availabilityDetail":  "8 of 9 sizes listed in stock",
+                                                       "note":  ""
+                                                   },
+                    "rachel-comey-addio-jacket":  {
+                                                      "checkedAt":  "2026-10-17",
+                                                      "pageVerified":  true,
+                                                      "priceVerified":  true,
+                                                      "price":  {
+                                                                    "amount":  725,
+                                                                    "currency":  "USD"
+                                                                },
+                                                      "availability":  "in-stock",
+                                                      "availabilityDetail":  "6 of 8 sizes listed in stock",
+                                                      "note":  ""
+                                                  },
+                    "batsheva-lillian-dress-red-blue-plaid":  {
+                                                                  "checkedAt":  "2026-10-17",
+                                                                  "pageVerified":  true,
+                                                                  "priceVerified":  true,
+                                                                  "price":  {
+                                                                                "amount":  250,
+                                                                                "currency":  "USD"
+                                                                            },
+                                                                  "availability":  "in-stock",
+                                                                  "availabilityDetail":  "11 of 11 sizes listed in stock",
+                                                                  "note":  ""
+                                                              },
+                    "batsheva-lillian-dress-blue-stripe":  {
+                                                               "checkedAt":  "2026-10-17",
+                                                               "pageVerified":  true,
+                                                               "priceVerified":  true,
+                                                               "price":  {
+                                                                             "amount":  250,
+                                                                             "currency":  "USD"
+                                                                         },
+                                                               "availability":  "in-stock",
+                                                               "availabilityDetail":  "11 of 11 sizes listed in stock",
+                                                               "note":  ""
+                                                           },
+                    "batsheva-lillian-dress-navy-stripe":  {
+                                                               "checkedAt":  "2026-10-17",
+                                                               "pageVerified":  true,
+                                                               "priceVerified":  true,
+                                                               "price":  {
+                                                                             "amount":  250,
+                                                                             "currency":  "USD"
+                                                                         },
+                                                               "availability":  "in-stock",
+                                                               "availabilityDetail":  "11 of 11 sizes listed in stock",
+                                                               "note":  ""
+                                                           },
+                    "apc-short-brown-leather-jacket":  {
+                                                           "checkedAt":  "2026-10-17",
+                                                           "pageVerified":  true,
+                                                           "priceVerified":  true,
+                                                           "price":  {
+                                                                         "amount":  1200,
+                                                                         "currency":  "EUR"
+                                                                     },
+                                                           "availability":  "in-stock",
+                                                           "availabilityDetail":  "4 of 5 sizes listed in stock",
+                                                           "note":  ""
+                                                       },
+                    "apc-beige-boxy-wool-sweater":  {
+                                                        "checkedAt":  "2026-10-17",
+                                                        "pageVerified":  true,
+                                                        "priceVerified":  true,
+                                                        "price":  {
+                                                                      "amount":  350,
+                                                                      "currency":  "EUR"
+                                                                  },
+                                                        "availability":  "in-stock",
+                                                        "availabilityDetail":  "4 of 5 sizes listed in stock",
+                                                        "note":  ""
+                                                    },
+                    "apc-elisabeth-jeans":  {
+                                                "checkedAt":  "2026-10-17",
+                                                "pageVerified":  true,
+                                                "priceVerified":  true,
+                                                "price":  {
+                                                              "amount":  290,
+                                                              "currency":  "EUR"
+                                                          },
+                                                "availability":  "in-stock",
+                                                "availabilityDetail":  "8 of 11 sizes listed in stock",
+                                                "note":  ""
+                                            },
+                    "studio-nicholson-mori-wool-coat-navy":  {
+                                                                 "checkedAt":  "2026-10-17",
+                                                                 "pageVerified":  true,
+                                                                 "priceVerified":  true,
+                                                                 "price":  {
+                                                                               "amount":  825,
+                                                                               "currency":  "GBP"
+                                                                           },
+                                                                 "availability":  "in-stock",
+                                                                 "availabilityDetail":  "4 of 4 sizes listed in stock",
+                                                                 "note":  ""
+                                                             },
+                    "studio-nicholson-rhine-wool-jacket-navy":  {
+                                                                    "checkedAt":  "2026-10-17",
+                                                                    "pageVerified":  true,
+                                                                    "priceVerified":  true,
+                                                                    "price":  {
+                                                                                  "amount":  695,
+                                                                                  "currency":  "GBP"
+                                                                              },
+                                                                    "availability":  "in-stock",
+                                                                    "availabilityDetail":  "3 of 4 sizes listed in stock",
+                                                                    "note":  ""
+                                                                },
+                    "studio-nicholson-tivoli-canvas-jacket-black":  {
+                                                                        "checkedAt":  "2026-10-17",
+                                                                        "pageVerified":  true,
+                                                                        "priceVerified":  true,
+                                                                        "price":  {
+                                                                                      "amount":  725,
+                                                                                      "currency":  "GBP"
+                                                                                  },
+                                                                        "availability":  "in-stock",
+                                                                        "availabilityDetail":  "5 of 6 sizes listed in stock",
+                                                                        "note":  ""
+                                                                    },
+                    "khaite-astor-dress-black-velvet":  {
+                                                            "checkedAt":  "2026-10-17",
+                                                            "pageVerified":  true,
+                                                            "priceVerified":  true,
+                                                            "price":  {
+                                                                          "amount":  2200,
+                                                                          "currency":  "USD"
+                                                                      },
+                                                            "availability":  "in-stock",
+                                                            "availabilityDetail":  "7 of 7 sizes listed in stock",
+                                                            "note":  ""
+                                                        },
+                    "khaite-astor-dress-black-crepe":  {
+                                                           "checkedAt":  "2026-10-17",
+                                                           "pageVerified":  true,
+                                                           "priceVerified":  true,
+                                                           "price":  {
+                                                                         "amount":  2600,
+                                                                         "currency":  "USD"
+                                                                     },
+                                                           "availability":  "in-stock",
+                                                           "availabilityDetail":  "4 of 7 sizes listed in stock",
+                                                           "note":  ""
+                                                       },
+                    "khaite-marou-dress-black-velvet":  {
+                                                            "checkedAt":  "2026-10-17",
+                                                            "pageVerified":  true,
+                                                            "priceVerified":  true,
+                                                            "price":  {
+                                                                          "amount":  4200,
+                                                                          "currency":  "USD"
+                                                                      },
+                                                            "availability":  "in-stock",
+                                                            "availabilityDetail":  "1 of 7 sizes listed in stock",
+                                                            "note":  ""
+                                                        }
+                }
+}

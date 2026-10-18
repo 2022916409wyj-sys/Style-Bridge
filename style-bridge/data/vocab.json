@@ -1,0 +1,113 @@
+{
+  "departments": [
+    { "id": "women", "label": "Women's" },
+    { "id": "men", "label": "Men's" },
+    { "id": "any", "label": "Both / no preference" }
+  ],
+  "styles": [
+    { "id": "minimal", "label": "Minimal", "hint": "Clean lines, few logos, quiet colors" },
+    { "id": "classic", "label": "Classic", "hint": "Timeless pieces that never feel dated" },
+    { "id": "casual", "label": "Relaxed casual", "hint": "Easy, comfortable, everyday" },
+    { "id": "street", "label": "Streetwear", "hint": "Graphic tees, hoodies, sneakers" },
+    { "id": "athleisure", "label": "Athleisure", "hint": "Workout gear you also wear out" },
+    { "id": "outdoor", "label": "Outdoor", "hint": "Weatherproof, practical, sporty" },
+    { "id": "feminine", "label": "Soft & feminine", "hint": "Dresses, gentle colors, details" },
+    { "id": "edgy", "label": "Cool & edgy", "hint": "Black, leather, sharp shapes" },
+    { "id": "preppy", "label": "Preppy", "hint": "Polos, oxford shirts, knit sweaters" },
+    { "id": "utility", "label": "Utility / workwear", "hint": "Canvas, cargo pockets, sturdy" },
+    { "id": "artsy", "label": "Artsy", "hint": "Unusual shapes and designer details" },
+    { "id": "trendy", "label": "Trend-led", "hint": "What's new this season" }
+  ],
+  "categories": [
+    { "id": "tees", "label": "T-shirts & tops" },
+    { "id": "shirts", "label": "Shirts & blouses" },
+    { "id": "knitwear", "label": "Sweaters & knits" },
+    { "id": "outerwear", "label": "Jackets & coats" },
+    { "id": "pants", "label": "Pants" },
+    { "id": "denim", "label": "Jeans" },
+    { "id": "dresses", "label": "Dresses & skirts" },
+    { "id": "activewear", "label": "Activewear" },
+    { "id": "lounge", "label": "Loungewear & innerwear" },
+    { "id": "shoes", "label": "Shoes" },
+    { "id": "accessories", "label": "Bags & accessories" }
+  ],
+  "fits": [
+    { "id": "relaxed", "label": "Relaxed / oversized" },
+    { "id": "regular", "label": "Regular" },
+    { "id": "tailored", "label": "Slim / tailored" },
+    { "id": "cropped", "label": "Cropped / short" }
+  ],
+  "colors": [
+    { "id": "neutrals", "label": "Black, white & gray", "swatch": ["#1f1f1f", "#f2f1ee", "#9b9a97"] },
+    { "id": "earth", "label": "Earth tones", "swatch": ["#c8b79c", "#8a6a4b", "#6b7350"] },
+    { "id": "blues", "label": "Navy & denim blues", "swatch": ["#1f2f4f", "#4a6a96", "#a9bfd8"] },
+    { "id": "pastels", "label": "Soft pastels", "swatch": ["#f2d4d7", "#d8e3cf", "#d9d6ef"] },
+    { "id": "brights", "label": "Bold brights", "swatch": ["#d6372e", "#f2b705", "#1b8a5a"] },
+    { "id": "prints", "label": "Prints & patterns", "swatch": ["#c9a27e", "#3d4b63", "#efe6d6"] }
+  ],
+  "occasions": [
+    { "id": "everyday", "label": "Everyday" },
+    { "id": "work", "label": "Work / office" },
+    { "id": "campus", "label": "Campus" },
+    { "id": "nightout", "label": "Going out" },
+    { "id": "active", "label": "Gym & sports" },
+    { "id": "outdoors", "label": "Outdoors & travel" },
+    { "id": "events", "label": "Weddings & events" }
+  ],
+  "budgets": [
+    { "id": 1, "label": "Under $40", "short": "$" },
+    { "id": 2, "label": "$40–$100", "short": "$$" },
+    { "id": 3, "label": "$100–$250", "short": "$$$" },
+    { "id": 4, "label": "$250+", "short": "$$$$" }
+  ],
+  "sizes": [
+    { "id": "petite", "label": "Petite" },
+    { "id": "tall", "label": "Tall" },
+    { "id": "plus", "label": "Plus / extended sizes" }
+  ],
+  "shopping": [
+    { "id": "online", "label": "Online", "hint": "Order from a brand's website" },
+    { "id": "stores", "label": "In stores", "hint": "Try things on first" },
+    { "id": "intl", "label": "International online stores", "hint": "Brands outside the US; shipping may vary" }
+  ],
+  "channels": [
+    { "id": "online", "label": "Online" },
+    { "id": "stores", "label": "In stores" }
+  ],
+  "countries": [
+    { "id": "CN", "label": "China" },
+    { "id": "US", "label": "United States" },
+    { "id": "CA", "label": "Canada" },
+    { "id": "JP", "label": "Japan" },
+    { "id": "ES", "label": "Spain" },
+    { "id": "SE", "label": "Sweden" },
+    { "id": "GB", "label": "United Kingdom" },
+    { "id": "DE", "label": "Germany" },
+    { "id": "IE", "label": "Ireland" },
+    { "id": "FR", "label": "France" },
+    { "id": "IT", "label": "Italy" },
+    { "id": "DK", "label": "Denmark" }
+  ],
+  "segments": [
+    { "id": "mainstream", "label": "Mainstream & accessible" },
+    { "id": "premium", "label": "Contemporary & premium" },
+    { "id": "luxury", "label": "Luxury" },
+    { "id": "independent", "label": "Independent & designer-led" }
+  ],
+  "usAvailability": [
+    { "id": "yes", "label": "Sold in the US" },
+    { "id": "intl-online", "label": "Has an international online store (US shipping not confirmed)" },
+    { "id": "unknown", "label": "US availability not confirmed" }
+  ],
+  "storeStatus": [
+    { "id": "verified", "label": "Store info verified" },
+    { "id": "pending", "label": "Store info not yet verified" },
+    { "id": "none", "label": "No store data yet" }
+  ],
+  "linkStatus": [
+    { "id": "verified", "label": "Link checked" },
+    { "id": "needs-review", "label": "Link needs review" },
+    { "id": "unverified", "label": "Link not verified" },
+    { "id": "none", "label": "No official link on file" }
+  ]
+}

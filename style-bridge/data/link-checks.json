@@ -1,0 +1,1006 @@
+{
+    "generatedAt":  "2026-10-17",
+    "method":  "Automated HTTP GET of the official homepage; verified = 2xx response whose page mentions the brand name.",
+    "results":  {
+                    "uniqlo":  {
+                                   "url":  "https://www.uniqlo.com/us/en/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://www.uniqlo.com/us/en/",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "zara":  {
+                                 "url":  "https://www.zara.com/us/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "unverified",
+                                 "http":  200,
+                                 "finalUrl":  "https://www.zara.com/us/",
+                                 "note":  "Page responded but brand name not found. Title: \u0026nbsp;"
+                             },
+                    "muji":  {
+                                 "url":  "https://www.muji.us/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://www.muji.us/",
+                                 "note":  "Page title names the brand. Title: MUJI USA | Home Goods | Apparel | Stationery Store"
+                             },
+                    "hm":  {
+                               "url":  "https://www2.hm.com/en_us/index.html",
+                               "checkedAt":  "2026-10-17",
+                               "status":  "unverified",
+                               "http":  403,
+                               "finalUrl":  "https://www2.hm.com/en_us/index.html",
+                               "note":  "HTTP 403 (site may block automated checks)"
+                           },
+                    "cos":  {
+                                "url":  "https://www.cos.com/en-us/",
+                                "checkedAt":  "2026-10-17",
+                                "status":  "unverified",
+                                "http":  403,
+                                "finalUrl":  "https://www.cos.com/en-us/",
+                                "note":  "HTTP 403 (site may block automated checks)"
+                            },
+                    "everlane":  {
+                                     "url":  "https://www.everlane.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.everlane.com/",
+                                     "note":  "Page title names the brand. Title: Everlane"
+                                 },
+                    "aritzia":  {
+                                    "url":  "https://www.aritzia.com/us/en/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "unverified",
+                                    "http":  403,
+                                    "finalUrl":  "https://www.aritzia.com/us/en/",
+                                    "note":  "HTTP 403 (site may block automated checks)"
+                                },
+                    "madewell":  {
+                                     "url":  "https://www.madewell.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "unverified",
+                                     "http":  403,
+                                     "finalUrl":  "https://www.madewell.com/",
+                                     "note":  "HTTP 403 (site may block automated checks)"
+                                 },
+                    "jcrew":  {
+                                  "url":  "https://www.jcrew.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "unverified",
+                                  "http":  403,
+                                  "finalUrl":  "https://www.jcrew.com/",
+                                  "note":  "HTTP 403 (site may block automated checks)"
+                              },
+                    "banana-republic":  {
+                                            "url":  "https://bananarepublic.gap.com/",
+                                            "checkedAt":  "2026-10-17",
+                                            "status":  "verified",
+                                            "http":  200,
+                                            "finalUrl":  "https://bananarepublic.gap.com/",
+                                            "note":  "Page title names the brand. Title: Banana Republic | Timeless Style for Women’s \u0026amp; Men’s Clothing"
+                                        },
+                    "gap":  {
+                                "url":  "https://www.gap.com/",
+                                "checkedAt":  "2026-10-17",
+                                "status":  "verified",
+                                "http":  200,
+                                "finalUrl":  "https://www.gap.com/",
+                                "note":  "Page title names the brand. Title: Gap Individual style for Women\u0026#x27;s, Men\u0026#x27;s, Baby \u0026amp; Kids\u0026#x27; Clothing"
+                            },
+                    "old-navy":  {
+                                     "url":  "https://oldnavy.gap.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://oldnavy.gap.com/",
+                                     "note":  "Page title names the brand. Title: Old Navy | Affordable Clothing for Women, Men, Kids \u0026amp; Baby"
+                                 },
+                    "target":  {
+                                   "url":  "https://www.target.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.target.com/",
+                                   "note":  "Page title names the brand. Title: Target : Expect More. Pay Less."
+                               },
+                    "quince":  {
+                                   "url":  "https://www.quince.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.quince.com/",
+                                   "note":  "Page title names the brand. Title: Quince | High Quality Essentials, Radically Low Prices"
+                               },
+                    "theory":  {
+                                   "url":  "https://www.theory.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://www.theory.com/",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "eileen-fisher":  {
+                                          "url":  "https://www.eileenfisher.com/",
+                                          "checkedAt":  "2026-10-17",
+                                          "status":  "unverified",
+                                          "http":  403,
+                                          "finalUrl":  "https://www.eileenfisher.com/",
+                                          "note":  "HTTP 403 (site may block automated checks)"
+                                      },
+                    "universal-standard":  {
+                                               "url":  "https://www.universalstandard.com/",
+                                               "checkedAt":  "2026-10-17",
+                                               "status":  "verified",
+                                               "http":  200,
+                                               "finalUrl":  "https://www.universalstandard.com/",
+                                               "note":  "Page title names the brand. Title: Universal Standard | Plus Size and Inclusive Fashion from 00 - 40"
+                                           },
+                    "abercrombie":  {
+                                        "url":  "https://www.abercrombie.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "unverified",
+                                        "http":  200,
+                                        "finalUrl":  "https://www.abercrombie.com/shop/us",
+                                        "note":  "Bot-protection page, not the real site. Title: Client Challenge"
+                                    },
+                    "american-eagle":  {
+                                           "url":  "https://www.ae.com/",
+                                           "checkedAt":  "2026-10-17",
+                                           "status":  "unverified",
+                                           "http":  403,
+                                           "finalUrl":  "https://www.ae.com/",
+                                           "note":  "HTTP 403 (site may block automated checks)"
+                                       },
+                    "levis":  {
+                                  "url":  "https://www.levi.com/US/en_US/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "unverified",
+                                  "http":  403,
+                                  "finalUrl":  "https://www.levi.com/US/en_US/",
+                                  "note":  "HTTP 403 (site may block automated checks)"
+                              },
+                    "lululemon":  {
+                                      "url":  "https://shop.lululemon.com/",
+                                      "checkedAt":  "2026-10-17",
+                                      "status":  "unverified",
+                                      "http":  403,
+                                      "finalUrl":  "https://shop.lululemon.com/",
+                                      "note":  "HTTP 403 (site may block automated checks)"
+                                  },
+                    "vuori":  {
+                                  "url":  "https://vuoriclothing.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://vuoriclothing.com/",
+                                  "note":  "Page title names the brand. Title: Athletic Clothing \u0026amp; Activewear Apparel for Performance – Vuori"
+                              },
+                    "alo":  {
+                                "url":  "https://www.aloyoga.com/",
+                                "checkedAt":  "2026-10-17",
+                                "status":  "verified",
+                                "http":  200,
+                                "finalUrl":  "https://www.aloyoga.com/",
+                                "note":  "Page title names the brand. Title: ALO | Yoga leggings, clothes, and accessories for studio to street"
+                            },
+                    "athleta":  {
+                                    "url":  "https://athleta.gap.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://athleta.gap.com/",
+                                    "note":  "Page title names the brand. Title: Shop Athleta for Women\u0026#x27;s Yoga Clothing, Technical Athletic Clothing, and Athleisure"
+                                },
+                    "nike":  {
+                                 "url":  "https://www.nike.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://www.nike.com/",
+                                 "note":  "Page title names the brand. Title: Nike. Just Do It. Nike.com"
+                             },
+                    "adidas":  {
+                                   "url":  "https://www.adidas.com/us",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://www.adidas.com/us",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "new-balance":  {
+                                        "url":  "https://www.newbalance.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "unverified",
+                                        "http":  403,
+                                        "finalUrl":  "https://www.newbalance.com/",
+                                        "note":  "HTTP 403 (site may block automated checks)"
+                                    },
+                    "champion":  {
+                                     "url":  "https://www.champion.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.champion.com/",
+                                     "note":  "Page title names the brand. Title: Champion® Official Site | What Do You Champion?"
+                                 },
+                    "patagonia":  {
+                                      "url":  "https://www.patagonia.com/",
+                                      "checkedAt":  "2026-10-17",
+                                      "status":  "unverified",
+                                      "http":  200,
+                                      "finalUrl":  "https://www.patagonia.com/",
+                                      "note":  "Bot-protection page, not the real site. Title: Hang Tight! Routing to checkout..."
+                                  },
+                    "north-face":  {
+                                       "url":  "https://www.thenorthface.com/",
+                                       "checkedAt":  "2026-10-17",
+                                       "status":  "unverified",
+                                       "http":  403,
+                                       "finalUrl":  "https://www.thenorthface.com/",
+                                       "note":  "HTTP 403 (site may block automated checks)"
+                                   },
+                    "columbia":  {
+                                     "url":  "https://www.columbia.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "unverified",
+                                     "http":  403,
+                                     "finalUrl":  "https://www.columbia.com/",
+                                     "note":  "HTTP 403 (site may block automated checks)"
+                                 },
+                    "arcteryx":  {
+                                     "url":  "https://arcteryx.com/us/en/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "needs-review",
+                                     "http":  200,
+                                     "finalUrl":  "https://arcteryx.com/us/en",
+                                     "note":  "Brand appears in page text but not the title - review by hand. Title: Outdoor Clothing, Technical Outerwear, \u0026amp; Accessories | Arc\u0026#x27;teryx United States"
+                                 },
+                    "rei":  {
+                                "url":  "https://www.rei.com/",
+                                "checkedAt":  "2026-10-17",
+                                "status":  "unverified",
+                                "http":  0,
+                                "finalUrl":  null,
+                                "note":  "HTTP 0 (site may block automated checks)"
+                            },
+                    "llbean":  {
+                                   "url":  "https://www.llbean.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "needs-review",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.llbean.com/",
+                                   "note":  "Brand appears in page text but not the title - review by hand. Title: "
+                               },
+                    "lands-end":  {
+                                      "url":  "https://www.landsend.com/",
+                                      "checkedAt":  "2026-10-17",
+                                      "status":  "unverified",
+                                      "http":  403,
+                                      "finalUrl":  "https://www.landsend.com/",
+                                      "note":  "HTTP 403 (site may block automated checks)"
+                                  },
+                    "eddie-bauer":  {
+                                        "url":  "https://www.eddiebauer.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://www.eddiebauer.com/",
+                                        "note":  "Page title names the brand. Title: Eddie Bauer: Outdoor Apparel, Outerwear \u0026amp; Gear | Free Shipping $99+"
+                                    },
+                    "carhartt":  {
+                                     "url":  "https://www.carhartt.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "unverified",
+                                     "http":  403,
+                                     "finalUrl":  "https://www.carhartt.com/",
+                                     "note":  "HTTP 403 (site may block automated checks)"
+                                 },
+                    "dickies":  {
+                                    "url":  "https://www.dickies.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.dickies.com/en-us",
+                                    "note":  "Page title names the brand. Title: Dickies Official Site | Durable Workwear and Apparel Since 1922 US"
+                                },
+                    "duluth":  {
+                                   "url":  "https://www.duluthtrading.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://www.duluthtrading.com/",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "stussy":  {
+                                   "url":  "https://www.stussy.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.stussy.com/",
+                                   "note":  "Page title names the brand. Title: Stüssy"
+                               },
+                    "pacsun":  {
+                                   "url":  "https://www.pacsun.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.pacsun.com/",
+                                   "note":  "Page title names the brand. Title: Pacsun | Denim, Streetwear, \u0026amp; Everyday Essentials"
+                               },
+                    "urban-outfitters":  {
+                                             "url":  "https://www.urbanoutfitters.com/",
+                                             "checkedAt":  "2026-10-17",
+                                             "status":  "unverified",
+                                             "http":  403,
+                                             "finalUrl":  "https://www.urbanoutfitters.com/",
+                                             "note":  "HTTP 403 (site may block automated checks)"
+                                         },
+                    "free-people":  {
+                                        "url":  "https://www.freepeople.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "unverified",
+                                        "http":  403,
+                                        "finalUrl":  "https://www.freepeople.com/",
+                                        "note":  "HTTP 403 (site may block automated checks)"
+                                    },
+                    "anthropologie":  {
+                                          "url":  "https://www.anthropologie.com/",
+                                          "checkedAt":  "2026-10-17",
+                                          "status":  "unverified",
+                                          "http":  403,
+                                          "finalUrl":  "https://www.anthropologie.com/",
+                                          "note":  "HTTP 403 (site may block automated checks)"
+                                      },
+                    "reformation":  {
+                                        "url":  "https://www.thereformation.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "unverified",
+                                        "http":  403,
+                                        "finalUrl":  "https://www.thereformation.com/",
+                                        "note":  "HTTP 403 (site may block automated checks)"
+                                    },
+                    "other-stories":  {
+                                          "url":  "https://www.stories.com/en_usd/index.html",
+                                          "checkedAt":  "2026-10-17",
+                                          "status":  "unverified",
+                                          "http":  403,
+                                          "finalUrl":  "https://www.stories.com/en_usd/index.html",
+                                          "note":  "HTTP 403 (site may block automated checks)"
+                                      },
+                    "mango":  {
+                                  "url":  "https://shop.mango.com/us",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "unverified",
+                                  "http":  429,
+                                  "finalUrl":  "https://shop.mango.com/us",
+                                  "note":  "HTTP 429 (site may block automated checks)"
+                              },
+                    "massimo-dutti":  {
+                                          "url":  "https://www.massimodutti.com/us/",
+                                          "checkedAt":  "2026-10-17",
+                                          "status":  "unverified",
+                                          "http":  200,
+                                          "finalUrl":  "https://www.massimodutti.com/us/",
+                                          "note":  "Page responded but brand name not found. Title: \u0026nbsp;"
+                                      },
+                    "club-monaco":  {
+                                        "url":  "https://www.clubmonaco.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://www.clubmonaco.com/",
+                                        "note":  "Page title names the brand. Title: Club Monaco | Designer Men\u0026#39;s \u0026amp; Women\u0026#39;s Clothing"
+                                    },
+                    "vince":  {
+                                  "url":  "https://www.vince.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://www.vince.com/home",
+                                  "note":  "Page title names the brand. Title: Men\u0026#x27;s and Women\u0026#x27;s Clothing | Vince"
+                              },
+                    "calvin-klein":  {
+                                         "url":  "https://www.calvinklein.us/",
+                                         "checkedAt":  "2026-10-17",
+                                         "status":  "unverified",
+                                         "http":  403,
+                                         "finalUrl":  "https://www.calvinklein.us/",
+                                         "note":  "HTTP 403 (site may block automated checks)"
+                                     },
+                    "tommy-hilfiger":  {
+                                           "url":  "https://usa.tommy.com/",
+                                           "checkedAt":  "2026-10-17",
+                                           "status":  "unverified",
+                                           "http":  403,
+                                           "finalUrl":  "https://usa.tommy.com/",
+                                           "note":  "HTTP 403 (site may block automated checks)"
+                                       },
+                    "ralph-lauren":  {
+                                         "url":  "https://www.ralphlauren.com/",
+                                         "checkedAt":  "2026-10-17",
+                                         "status":  "unverified",
+                                         "http":  307,
+                                         "finalUrl":  "https://www.ralphlauren.com/",
+                                         "note":  "HTTP 307 (site may block automated checks)"
+                                     },
+                    "brooks-brothers":  {
+                                            "url":  "https://www.brooksbrothers.com/",
+                                            "checkedAt":  "2026-10-17",
+                                            "status":  "unverified",
+                                            "http":  403,
+                                            "finalUrl":  "https://www.brooksbrothers.com/",
+                                            "note":  "HTTP 403 (site may block automated checks)"
+                                        },
+                    "todd-snyder":  {
+                                        "url":  "https://www.toddsnyder.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "unverified",
+                                        "http":  403,
+                                        "finalUrl":  "https://www.toddsnyder.com/",
+                                        "note":  "HTTP 403 (site may block automated checks)"
+                                    },
+                    "bonobos":  {
+                                    "url":  "https://bonobos.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://bonobos.com/",
+                                    "note":  "Page title names the brand. Title: Bonobos Official: Men’s Clothing \u0026amp; Accessories"
+                                },
+                    "faherty":  {
+                                    "url":  "https://fahertybrand.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://fahertybrand.com/",
+                                    "note":  "Page title names the brand. Title: Faherty Brand - Official Site"
+                                },
+                    "aime-leon-dore":  {
+                                           "url":  "https://www.aimeleondore.com/",
+                                           "checkedAt":  "2026-10-17",
+                                           "status":  "verified",
+                                           "http":  200,
+                                           "finalUrl":  "https://www.aimeleondore.com/",
+                                           "note":  "Page title names the brand. Title: Aimé Leon Dore"
+                                       },
+                    "express":  {
+                                    "url":  "https://www.express.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "unverified",
+                                    "http":  403,
+                                    "finalUrl":  "https://www.express.com/",
+                                    "note":  "HTTP 403 (site may block automated checks)"
+                                },
+                    "loft":  {
+                                 "url":  "https://www.loft.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "unverified",
+                                 "http":  200,
+                                 "finalUrl":  "https://www.loft.com/on/demandware.store/Sites-Loft-Site/default/PX-Show?url=aHR0cHM6Ly93d3cubG9mdC5jb20vb24vZGVtYW5kd2FyZS5zdG9yZS9TaXRlcy1Mb2Z0LVNpdGU%3d\u0026frame=1792267375059",
+                                 "note":  "Bot-protection page, not the real site. Title: Access to this page has been denied."
+                             },
+                    "ann-taylor":  {
+                                       "url":  "https://www.anntaylor.com/",
+                                       "checkedAt":  "2026-10-17",
+                                       "status":  "verified",
+                                       "http":  200,
+                                       "finalUrl":  "https://www.anntaylor.com/",
+                                       "note":  "Page title names the brand. Title: Ann Taylor : Women\u0027s Clothing, Petites, Dresses, Pants, Shirts, Sweaters"
+                                   },
+                    "torrid":  {
+                                   "url":  "https://www.torrid.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "needs-review",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.torrid.com/on/demandware.store/Sites-torrid-Site/default/DDUser-Challenge?redirect=%2Fon%2Fdemandware.store%2FSites-torrid-Site",
+                                   "note":  "Brand appears in page text but not the title - review by hand. Title: "
+                               },
+                    "lane-bryant":  {
+                                        "url":  "https://www.lanebryant.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://www.lanebryant.com/",
+                                        "note":  "Page title names the brand. Title: Plus Size Clothing for Women | Lane Bryant"
+                                    },
+                    "eloquii":  {
+                                    "url":  "https://www.eloquii.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "unverified",
+                                    "http":  433,
+                                    "finalUrl":  "https://www.eloquii.com/",
+                                    "note":  "HTTP 433 (site may block automated checks)"
+                                },
+                    "good-american":  {
+                                          "url":  "https://www.goodamerican.com/",
+                                          "checkedAt":  "2026-10-17",
+                                          "status":  "verified",
+                                          "http":  200,
+                                          "finalUrl":  "https://www.goodamerican.com/",
+                                          "note":  "Page title names the brand. Title: GOOD AMERICAN | DENIM THAT LOVES YOUR BODY"
+                                      },
+                    "skims":  {
+                                  "url":  "https://skims.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://skims.com/",
+                                  "note":  "Page title names the brand. Title: SKIMS | Solutions For Every Body"
+                              },
+                    "gymshark":  {
+                                     "url":  "https://www.gymshark.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.gymshark.com/",
+                                     "note":  "Page title names the brand. Title: Gymshark Official Store - Gym Clothes \u0026amp; Workout Clothes"
+                                 },
+                    "asos":  {
+                                 "url":  "https://www.asos.com/us/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "unverified",
+                                 "http":  0,
+                                 "finalUrl":  null,
+                                 "note":  "HTTP 0 (site may block automated checks)"
+                             },
+                    "primark":  {
+                                    "url":  "https://www.primark.com/en-us",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "unverified",
+                                    "http":  403,
+                                    "finalUrl":  "https://www.primark.com/en-us",
+                                    "note":  "HTTP 403 (site may block automated checks)"
+                                },
+                    "nordstrom-rack":  {
+                                           "url":  "https://www.nordstromrack.com/",
+                                           "checkedAt":  "2026-10-17",
+                                           "status":  "unverified",
+                                           "http":  200,
+                                           "finalUrl":  "https://www.nordstromrack.com/",
+                                           "note":  "Page responded but brand name not found. Title: "
+                                       },
+                    "tjmaxx":  {
+                                   "url":  "https://tjmaxx.tjx.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://tjmaxx.tjx.com/",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "kohls":  {
+                                  "url":  "https://www.kohls.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "unverified",
+                                  "http":  403,
+                                  "finalUrl":  "https://www.kohls.com/",
+                                  "note":  "HTTP 403 (site may block automated checks)"
+                              },
+                    "macys":  {
+                                  "url":  "https://www.macys.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "unverified",
+                                  "http":  403,
+                                  "finalUrl":  "https://www.macys.com/",
+                                  "note":  "HTTP 403 (site may block automated checks)"
+                              },
+                    "urban-revivo":  {
+                                         "url":  "https://www.urbanrevivo.com/",
+                                         "checkedAt":  "2026-10-17",
+                                         "status":  "verified",
+                                         "http":  200,
+                                         "finalUrl":  "https://global.urbanrevivo.com/",
+                                         "note":  "Page title names the brand. Title: Trendy Fashion, Runway Inspired Styles And Designs \u0026ndash; URBAN REVIVO"
+                                     },
+                    "peacebird":  {
+                                      "url":  "https://www.peacebird.com/",
+                                      "checkedAt":  "2026-10-17",
+                                      "status":  "verified",
+                                      "http":  200,
+                                      "finalUrl":  "https://www.peacebird.com/",
+                                      "note":  "Page title names the brand. Title: PEACEBIRD"
+                                  },
+                    "jnby":  {
+                                 "url":  "https://www.jnby.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://jnby.com/",
+                                 "note":  "Page title names the brand. Title: JNBY Official Store | Contemporary Designer Womenswear"
+                             },
+                    "icicle":  {
+                                   "url":  "https://www.icicle.com.cn/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://www.icicle.com.cn/",
+                                   "note":  "Page title names the brand. Title: ICICLE 自然万物之一 Made in Earth"
+                               },
+                    "li-ning":  {
+                                    "url":  "https://www.lining.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.lining.com/",
+                                    "note":  "Page title names the brand. Title: Summer 2023 - Li-Ning"
+                                },
+                    "anta":  {
+                                 "url":  "https://www.anta.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://anta.com/",
+                                 "note":  "Page title names the brand. Title: ANTA Official Website | ANTA US"
+                             },
+                    "xtep":  {
+                                 "url":  "https://www.xtep.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://www.xtep.com/",
+                                 "note":  "Page title names the brand. Title: 特步-屡获全球跑鞋大奖"
+                             },
+                    "361-degrees":  {
+                                        "url":  "https://www.361sport.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://361sport.com/",
+                                        "note":  "Page title names the brand. Title: 361® Official Store | Basketball \u0026amp; Running Shoes, Top Sport Brand \u0026ndash; 361sport"
+                                    },
+                    "peak":  {
+                                 "url":  "https://www.peaksport.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://www.peaksport.com/cn",
+                                 "note":  "Page title names the brand. Title: 匹克（PEAK）官方网站"
+                             },
+                    "bosideng":  {
+                                     "url":  "https://www.bosideng.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.bosideng.com/",
+                                     "note":  "Page title names the brand. Title: 波司登官网"
+                                 },
+                    "semir":  {
+                                  "url":  "https://www.semir.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://www.semir.com/new/",
+                                  "note":  "Page title names the brand. Title: 森马集团 semir官方网站"
+                              },
+                    "jeanswest":  {
+                                      "url":  "https://www.jeanswest.com.cn/",
+                                      "checkedAt":  "2026-10-17",
+                                      "status":  "verified",
+                                      "http":  200,
+                                      "finalUrl":  "https://www.jeanswest.com.cn/",
+                                      "note":  "Page title names the brand. Title: 真维斯服饰"
+                                  },
+                    "hla":  {
+                                "url":  "https://www.hla.com.cn/",
+                                "checkedAt":  "2026-10-17",
+                                "status":  "verified",
+                                "http":  200,
+                                "finalUrl":  "https://www.hla.com.cn/",
+                                "note":  "Page title names the brand. Title: HLA GROUP"
+                            },
+                    "erdos":  {
+                                  "url":  "https://www.erdos.cn/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://erdos.world.tmall.com/shop/view_shop.htm",
+                                  "note":  "Page title names the brand. Title: ��ҳ-ERDOS������˹�ٷ��콢��-��èTmall.com"
+                              },
+                    "bananain":  {
+                                     "url":  "https://www.bananain.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.bananain.com/",
+                                     "note":  "Page title names the brand. Title: 蕉内，一家体感科学公司"
+                                 },
+                    "neiwai":  {
+                                   "url":  "https://neiwai.life/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://neiwai.life/",
+                                   "note":  "Page title names the brand. Title: NEIWAI - Made To Live In"
+                               },
+                    "ubras":  {
+                                  "url":  "https://www.ubras.com/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://ubras.com/",
+                                  "note":  "Page title names the brand. Title: ubras - Shop Wireless Bras, Lingerie, Pajamas."
+                              },
+                    "pelliot":  {
+                                    "url":  "https://www.pelliot.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.pelliot.com/",
+                                    "note":  "Page title names the brand. Title: Pelliot.com"
+                                },
+                    "beneunder":  {
+                                      "url":  "https://www.beneunder.com/",
+                                      "checkedAt":  "2026-10-17",
+                                      "status":  "verified",
+                                      "http":  200,
+                                      "finalUrl":  "https://beneunder.com/",
+                                      "note":  "Page title names the brand. Title: Beneunder | Wonder for Outdoors"
+                                  },
+                    "ellassay":  {
+                                     "url":  "https://www.ellassay.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.ellassay.com/",
+                                     "note":  "Page title names the brand. Title: 歌力思"
+                                 },
+                    "marisfrolg":  {
+                                       "url":  "https://www.marisfrolg.com/",
+                                       "checkedAt":  "2026-10-17",
+                                       "status":  "verified",
+                                       "http":  200,
+                                       "finalUrl":  "https://www.marisfrolg.com/",
+                                       "note":  "Page title names the brand. Title: Marisfrolg"
+                                   },
+                    "ochirly":  {
+                                    "url":  "https://www.ochirly.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "needs-review",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.ochirly.com/",
+                                    "note":  "Brand appears in page text but not the title - review by hand. Title: 广州赫基信息科技有限公司"
+                                },
+                    "roaringwild":  {
+                                        "url":  "https://www.roaringwild.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://roaringwild.com/",
+                                        "note":  "Page title names the brand. Title: ROARINGWILD \u0026ndash; ROARINGWILD ONLINE STORE"
+                                    },
+                    "cabbeen":  {
+                                    "url":  "https://www.cabbeen.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.cabbeen.com/",
+                                    "note":  "Page title names the brand. Title: 卡宾服饰（中国）有限公司"
+                                },
+                    "chanel":  {
+                                   "url":  "https://www.chanel.com/us/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://www.chanel.com/us/",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "max-mara":  {
+                                     "url":  "https://us.maxmara.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "unverified",
+                                     "http":  403,
+                                     "finalUrl":  "https://us.maxmara.com/",
+                                     "note":  "HTTP 403 (site may block automated checks)"
+                                 },
+                    "prada":  {
+                                  "url":  "https://www.prada.com/us/en.html",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://www.prada.com/us/en.html",
+                                  "note":  "Page title names the brand. Title: PRADA United States Official Website and Online Store | PRADA - United States"
+                              },
+                    "gucci":  {
+                                  "url":  "https://www.gucci.com/us/en/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "unverified",
+                                  "http":  0,
+                                  "finalUrl":  null,
+                                  "note":  "HTTP 0 (site may block automated checks)"
+                              },
+                    "the-row":  {
+                                    "url":  "https://www.therow.com/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.therow.com/",
+                                    "note":  "Page title names the brand. Title: The Row | Clothing \u0026 Accessories"
+                                },
+                    "loewe":  {
+                                  "url":  "https://www.loewe.com/usa/en/home",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://www.loewe.com/usa/en/home",
+                                  "note":  "Page title names the brand. Title: Loewe | Designer Bags, Clothing, Accessories for Women \u0026amp; Men - LOEWE USA Official Website"
+                              },
+                    "burberry":  {
+                                     "url":  "https://us.burberry.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://us.burberry.com/",
+                                     "note":  "Page title names the brand. Title: Burberry | Official Website \u0026amp; Store"
+                                 },
+                    "jil-sander":  {
+                                       "url":  "https://www.jilsander.com/",
+                                       "checkedAt":  "2026-10-17",
+                                       "status":  "verified",
+                                       "http":  200,
+                                       "finalUrl":  "https://www.jilsander.com/en-us/",
+                                       "note":  "Page title names the brand. Title: Jil Sander | Official Online Store United States"
+                                   },
+                    "sandro":  {
+                                   "url":  "https://us.sandro-paris.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://us.sandro-paris.com/",
+                                   "note":  "Page title names the brand. Title: SANDRO Official Site | Fall / Winter 2026 Collection"
+                               },
+                    "maje":  {
+                                 "url":  "https://us.maje.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://us.maje.com/",
+                                 "note":  "Page title names the brand. Title: Maje | Discover the Fall-Winter collection | Women\u0026#x27;s clothing and accessories"
+                             },
+                    "ganni":  {
+                                  "url":  "https://www.ganni.com/us/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://www.ganni.com/us/home",
+                                  "note":  "Page title names the brand. Title: GANNI – Women\u0027s Designer Fashion, Bags \u0026amp; Accessories | Official Site"
+                              },
+                    "acne-studios":  {
+                                         "url":  "https://www.acnestudios.com/us/en/",
+                                         "checkedAt":  "2026-10-17",
+                                         "status":  "verified",
+                                         "http":  200,
+                                         "finalUrl":  "https://www.acnestudios.com/us/en/home",
+                                         "note":  "Page title names the brand. Title: Acne Studios - Shop the official site"
+                                     },
+                    "toteme":  {
+                                   "url":  "https://toteme.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://toteme.com/en-us",
+                                   "note":  "Page title names the brand. Title: TOTEME - Official online store"
+                               },
+                    "rag-bone":  {
+                                     "url":  "https://www.rag-bone.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "needs-review",
+                                     "http":  200,
+                                     "finalUrl":  "https://www.rag-bone.com/",
+                                     "note":  "Brand appears in page text but not the title - review by hand. Title: rag \u0026amp; bone | Contemporary Fashion \u0026amp; Modern Essentials"
+                                 },
+                    "sezane":  {
+                                   "url":  "https://www.sezane.com/us",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "unverified",
+                                   "http":  403,
+                                   "finalUrl":  "https://www.sezane.com/us",
+                                   "note":  "HTTP 403 (site may block automated checks)"
+                               },
+                    "staud":  {
+                                  "url":  "https://staud.clothing/",
+                                  "checkedAt":  "2026-10-17",
+                                  "status":  "verified",
+                                  "http":  200,
+                                  "finalUrl":  "https://staud.clothing/",
+                                  "note":  "Page title names the brand. Title: STAUD Official Site - Clothing, Handbags, Footwear \u0026amp; Swim"
+                              },
+                    "veronica-beard":  {
+                                           "url":  "https://veronicabeard.com/",
+                                           "checkedAt":  "2026-10-17",
+                                           "status":  "unverified",
+                                           "http":  403,
+                                           "finalUrl":  "https://veronicabeard.com/",
+                                           "note":  "HTTP 403 (site may block automated checks)"
+                                       },
+                    "rachel-comey":  {
+                                         "url":  "https://www.rachelcomey.com/",
+                                         "checkedAt":  "2026-10-17",
+                                         "status":  "verified",
+                                         "http":  200,
+                                         "finalUrl":  "https://rachelcomey.com/",
+                                         "note":  "Page title names the brand. Title: Rachel Comey | Official Site | rachelcomey.com"
+                                     },
+                    "batsheva":  {
+                                     "url":  "https://batsheva.com/",
+                                     "checkedAt":  "2026-10-17",
+                                     "status":  "verified",
+                                     "http":  200,
+                                     "finalUrl":  "https://batsheva.com/",
+                                     "note":  "Page title names the brand. Title: Batsheva \u0026ndash; BATSHEVA"
+                                 },
+                    "sandy-liang":  {
+                                        "url":  "https://sandyliang.info/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://www.sandyliang.info/",
+                                        "note":  "Page title names the brand. Title: Sandy Liang | Official Site"
+                                    },
+                    "collina-strada":  {
+                                           "url":  "https://collinastrada.com/",
+                                           "checkedAt":  "2026-10-17",
+                                           "status":  "verified",
+                                           "http":  200,
+                                           "finalUrl":  "https://collinastrada.com/",
+                                           "note":  "Page title names the brand. Title: Collina Strada"
+                                       },
+                    "bode":  {
+                                 "url":  "https://bode.com/",
+                                 "checkedAt":  "2026-10-17",
+                                 "status":  "verified",
+                                 "http":  200,
+                                 "finalUrl":  "https://bode.com/",
+                                 "note":  "Page title names the brand. Title: BODE"
+                             },
+                    "khaite":  {
+                                   "url":  "https://khaite.com/",
+                                   "checkedAt":  "2026-10-17",
+                                   "status":  "verified",
+                                   "http":  200,
+                                   "finalUrl":  "https://khaite.com/",
+                                   "note":  "Page title names the brand. Title: KHAITE | Womenswear and Leather Goods"
+                               },
+                    "apc":  {
+                                "url":  "https://www.apcstore.com/",
+                                "checkedAt":  "2026-10-17",
+                                "status":  "needs-review",
+                                "http":  200,
+                                "finalUrl":  "https://www.apcstore.com/",
+                                "note":  "Brand appears in page text but not the title - review by hand. Title: A.P.C. | Official Store | A.P.C."
+                            },
+                    "lemaire":  {
+                                    "url":  "https://www.lemaire.fr/",
+                                    "checkedAt":  "2026-10-17",
+                                    "status":  "verified",
+                                    "http":  200,
+                                    "finalUrl":  "https://www.lemaire.fr/",
+                                    "note":  "Page title names the brand. Title: Official Online Store | LEMAIRE"
+                                },
+                    "our-legacy":  {
+                                       "url":  "https://www.ourlegacy.com/",
+                                       "checkedAt":  "2026-10-17",
+                                       "status":  "verified",
+                                       "http":  200,
+                                       "finalUrl":  "https://www.ourlegacy.com/",
+                                       "note":  "Page title names the brand. Title: Our Legacy - Official Online Shop"
+                                   },
+                    "studio-nicholson":  {
+                                             "url":  "https://www.studionicholson.com/",
+                                             "checkedAt":  "2026-10-17",
+                                             "status":  "verified",
+                                             "http":  200,
+                                             "finalUrl":  "https://www.studionicholson.com/",
+                                             "note":  "Page title names the brand. Title: Studio Nicholson | Ready-to-wear, Shoes and Accessories"
+                                         },
+                    "paloma-wool":  {
+                                        "url":  "https://palomawool.com/",
+                                        "checkedAt":  "2026-10-17",
+                                        "status":  "verified",
+                                        "http":  200,
+                                        "finalUrl":  "https://palomawool.com/",
+                                        "note":  "Page title names the brand. Title: Paloma Wool \u0026ndash; paloma wool"
+                                    }
+                }
+}

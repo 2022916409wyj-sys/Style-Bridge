@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Style Bridge — Discover brands that fit your style, budget and life</title>
+  <meta name="description" content="Personalized brand and product discovery. Tell Style Bridge your style and budget and get a short list of brands and pieces, with a reason for each one.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>document.documentElement.classList.add('motion');</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <a class="logo" href="#/" aria-label="Style Bridge home"><span class="logo-dot" aria-hidden="true"></span>Style Bridge</a>
+      <p class="header-intro">Style Bridge helps you discover brands and products
+        <span>that fit your style, budget and life —</span>
+        <span>not just the brands you already know.</span></p>
+      <button type="button" class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span><span class="menu-icon" aria-hidden="true"></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main">
+        <a href="#/start">Get started</a>
+        <a href="#/profile">My profile</a>
+        <a href="#/matches">My picks</a>
+        <a href="#/brands">Brand guide</a>
+        <a href="#/saved">Saved <span class="count" id="saved-count" hidden></span></a>
+        <a href="#/cart">Cart <span class="count" id="cart-count" hidden></span></a>
+        <a href="#/privacy">Privacy</a>
+      </nav>
+      <p class="header-status" role="note"><span id="mode-label">Loading</span> <span id="mode-text">Checking which services are connected…</span> <a href="#/privacy#data">About our data</a></p>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <noscript><div class="container page"><p>Style Bridge needs JavaScript to work. Please turn it on and reload.</p></div></noscript>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-rows">
+      <div class="j-row">
+        <p class="j-label">Style Bridge</p>
+        <div class="j-content"><p>Helps people discover brands and products that fit their style, budget and life — not just the brands they already know.</p></div>
+      </div>
+      <div class="j-row">
+        <p class="j-label">Quick links</p>
+        <div class="j-content"><p><a href="#/start">Get started</a></p><p><a href="#/matches">My picks</a></p><p><a href="#/brands">Brand guide</a></p><p><a href="#/privacy">Privacy &amp; your data</a></p></div>
+      </div>
+      <div class="j-row">
+        <p class="j-label">© 2026</p>
+        <div class="j-content"><p>This is a demo. We’re not affiliated with any brand listed.</p><p class="muted">Brand info, prices and availability change, so always check the store before you buy.</p></div>
+      </div>
+    </div>
+    <div class="footer-mark" aria-hidden="true">
+      <div class="footer-art"></div>
+      <p class="wordmark" data-fit>Style Bridge</p>
+    </div>
+  </footer>
+
+  <div id="live" class="sr-only" aria-live="polite"></div>
+
+  <script src="js/services.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/engine.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
